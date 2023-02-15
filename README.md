@@ -9,7 +9,6 @@ _"Developpeur Web junior, en formation "Developpement Web et Accessibilite"_
 - [Pojet](projet.md)
 - [CV](CV.md)
 - [Contact](contact.md)
-- 
 ## Presentation
 
 En tant que full stack developer, je suis impliqué de la conception à la finalisation du produit. Je fais en sorte de résoudre le problème ou le besoin initial du client, en mettant en place des outils et/ou en développant des sites et des applications, et m’assure ensuite du bon fonctionnement du tout ce qui a été réalisé.
