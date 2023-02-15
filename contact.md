@@ -13,16 +13,15 @@ _"Developpeur Web junior, en formation "Developpement Web et Accessibilite"_
 ## contact
 
 Une question ? une idee ? une proposition ?
-
 Contactez moi !
 
 AB.dev@gnail.com
 
 +33(0)7 02 36 58 96
 
-Linkedin
+[Linkedin](https://fr.linkedin.com/)
 
-Twitter
+[Twitter](https://twitter.com/?lang=fr)
 
 A bientot !
 
