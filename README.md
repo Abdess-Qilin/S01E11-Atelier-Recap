@@ -1,4 +1,4 @@
+![image](img/desk-banner.jpg)
 
 # Abdesselam Bimkhiouad
 
-![image](../desk-banner.jpg)
