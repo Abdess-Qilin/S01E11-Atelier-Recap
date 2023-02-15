@@ -7,8 +7,8 @@ _"Developpeur Web junior, en formation "Developpement Web et Accessibilite"_
 
 - [Acceuil](README.md)
 - Pojet
-- CV
-- Contact
+- [CV](CV.md)
+- [Contact](contact.md)
 
 ## Mes pojets
 
@@ -18,5 +18,5 @@ _"Developpeur Web junior, en formation "Developpement Web et Accessibilite"_
 |Google|2021|Node.js|Google|
 |O'Clock|2017|React|O'Clock
 
-2023-Abdesselam bimkhiouad
+2023-Abdesselam bimkhiouad - [Me contacter](contact.md)
 #
