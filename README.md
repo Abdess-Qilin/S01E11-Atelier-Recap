@@ -2,11 +2,11 @@
 
 # Abdesselam Bimkhiouad
 
-_"Develppeur Web junior, en formation "Developement Web et Accessibilite"_
+_"Developpeur Web junior, en formation "Developpement Web et Accessibilite"_
 
 
 - Acceuil
-- Pojet
+- [Pojet](projet.md)
 - CV
 - Contact
 
