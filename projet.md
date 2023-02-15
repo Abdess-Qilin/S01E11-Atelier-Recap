@@ -19,4 +19,4 @@ _"Developpeur Web junior, en formation "Developpement Web et Accessibilite"_
 |O'Clock|2017|React|O'Clock
 
 #
-2023-Abdesselam bimkhiouad - [Me contacter](contact.md)
+© 2023-Abdesselam bimkhiouad - [Me contacter](contact.md)

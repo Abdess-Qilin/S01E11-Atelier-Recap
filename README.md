@@ -15,4 +15,4 @@ En tant que full stack developer, je suis impliqué de la conception à la final
 
 Généralement, les full stack developers sont appelés à être des chefs de projet technique, car ils connaissent de bout en bout les étapes d’un projet web, peuvent anticiper les problèmes, et faciliter la communication entre les différentes équipes.
 #
-2023-Abdesselam bimkhiouad - [Me contacter](contact.md)
+© 2023-Abdesselam bimkhiouad - [Me contacter](contact.md)

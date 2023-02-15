@@ -15,15 +15,15 @@ _"Developpeur Web junior, en formation "Developpement Web et Accessibilite"_
 Une question ? une idee ? une proposition ?
 Contactez moi !
 
-AB.dev@gnail.com
+:email: AB.dev@gnail.com
 
-+33(0)7 02 36 58 96
+:telephone_receiver: +33(0)7 02 36 58 96
 
-[Linkedin](https://fr.linkedin.com/)
+:computer: [Linkedin](https://fr.linkedin.com/)
 
-[Twitter](https://twitter.com/?lang=fr)
+:bird:[Twitter](https://twitter.com/?lang=fr)
 
 A bientot !
 
 #
-2023-Abdesselam bimkhiouad - [Me contacter](contact.md)
+© 2023-Abdesselam bimkhiouad - [Me contacter](contact.md)
